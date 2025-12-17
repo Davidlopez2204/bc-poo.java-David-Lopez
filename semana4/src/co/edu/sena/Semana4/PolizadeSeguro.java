@@ -24,50 +24,6 @@ public class PolizadeSeguro {
         System.out.println("prima : " + primaMensual);
     }
 
-    public double primamensual() { // calculo de prima mensual
-        return primaMensual * 12;
-    }
-
-    public int getNumerodepoliza() {
-        return numerodepoliza;
-    }
-
-    public String getTipo() {
-        return tipo;
-    }
-
-    public String getTitular() {
-        return titular;
-    }
-
-    public boolean isVigencia() {
-        return vigencia;
-    }
-
-    public double getPrimaMensual() {
-        return primaMensual;
-    }
-
-    public void setvigencia(boolean vigencia) { // asignacion setter
-        this.vigencia = vigencia;
-    }
-
-    public void setNumerodepoliza(int numerodepoliza) {
-        this.numerodepoliza = numerodepoliza;
-    }
-
-    public void setTipo(String tipo) {
-        this.tipo = tipo;
-    }
-
-    public void setTitular(String titular) {
-        this.titular = titular;
-    }
-
-    public void setPrimaMensual(double primaMensual) {
-        this.primaMensual = primaMensual;
-    }
-
     public double calcularRiesgo() {
         System.out.println("Calcular riesgo");
         return 1.0;

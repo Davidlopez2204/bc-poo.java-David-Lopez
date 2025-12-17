@@ -10,6 +10,8 @@ public class Main {
         for (PolizadeSeguro pol : polizas) {
             System.out.println("----------------");
             pol.mostrarDatos();
+            System.out.println("calcular riesgo: " + pol.calcularRiesgo());
+
         }
     }
 }
