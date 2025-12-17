@@ -61,7 +61,7 @@ Se creó la clase base **PolizadeSeguro** y se extendió en las clases **Segurod
 - `src/SegurodeCoche.java` – Clase hija con cálculo de riesgo  
 - `src/SegurodeVida.java` – Clase hija con cálculo de riesgo  
 - `src/Main.java` – Programa de demostración  
-- `docs/ANALISIS.md` – Análisis del uso de herencia y polimorfismo  
+- `docs/JERARQUIA.md` – Análisis del uso de herencia  
 
 ## 🚀 Instrucciones de Ejecución
 
