@@ -43,14 +43,14 @@ Se mejoró la seguridad y organización del código del sistema de **Seguros Tot
 - [x] Implementar encapsulación con getters y setters
 - [x] Usar constructores y sobrecarga
 - [x] Crear programa de demostración
-- [x] Documentar análisis del dominio
+- [x] Documentar mejoras del dominio
 
 ## 📂 Archivos Entregados
 
 - `src/Cliente.java` – Clase con atributos encapsulados
 - `src/SegurodeVida.java` – Uso de constructores y validaciones
 - `src/Main.java` – Programa de demostración
-- `docs/ANALISIS.md` – Análisis del uso de encapsulación
+- `docs/MEJORAS.md` – Mejoras de las clases
 
 ## 🚀 Instrucciones de Ejecución
 
